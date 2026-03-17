@@ -1365,5 +1365,11 @@ footer {
 }
 
 @media screen and (max-width: 500px) {
-    
+    body {
+        padding: 4px 0;
+    }
+
+    section {
+        padding: 0 12px;
+    }
 }
